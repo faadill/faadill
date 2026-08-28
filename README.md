@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mohammed Fadil 👋
 
-<!--
-**faadill/faadill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science student at **Northumbria University, Newcastle**
+💻 BTech in **Computer Science and Business Systems**
+📊 Interested in statistical analysis, data-driven decision making, and turning messy real-world data into clear insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently doing
+- Studying advanced statistical methods, machine learning, and data programming (R, Python) as part of my MSc
+- Building small end-to-end analysis projects using real, publicly available data
+- Sharpening my skills in data visualisation and communicating findings to non-technical audiences
+
+### 🌱 Background
+I started out studying Computer Science with a focus on Business Systems, which gave me a strong foundation in software fundamentals alongside how data and technology drive business decisions. I'm now specialising further in data science, with a particular interest in statistics, R programming, and applied analytics for real-world problems like logistics, healthcare, and business operations.
+
+### 🧰 Tools & Technologies
+`R` · `Python` · `SQL` · `ggplot2` · `dplyr` · `pandas` · `Excel` · `Statistical Modelling` · `Hypothesis Testing`
+
+### 📌 Featured Project
+**[M1 Motorway Traffic Speed Analysis](#)** — A statistical study of speed patterns on the M1 motorway using live traffic data, sampling design, descriptive statistics, and hypothesis testing (t-tests, ANOVA, correlation) to generate business recommendations for logistics companies.
+
+### 📫 Let's connect
+[LinkedIn](https://www.linkedin.com/in/mohammed-fadil-2a3ab2248)
+
+---
+<sub>This profile is a work in progress as I continue building out my data science portfolio.</sub>
