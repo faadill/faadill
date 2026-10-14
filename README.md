@@ -21,6 +21,8 @@ I started out studying Computer Science with a focus on Business Systems, which 
 
 **[ECG Heartbeat Classification with Deep Learning](#)** — Designed, trained, and benchmarked a 1D CNN against Random Forest and LSTM models to classify heartbeat abnormalities from raw ECG signals (MIT-BIH & PTB datasets), achieving 97.9% test accuracy and outperforming both baselines.
 
+**[Income Prediction with Machine Learning](#)** — Compared Logistic Regression against XGBoost for predicting income bracket from census data, with full evaluation (precision/recall/F1/ROC-AUC) and feature importance analysis — concluding the simpler model was the better fit for this data's structure.
+
 **[M1 Motorway Traffic Speed Analysis](#)** — A statistical study of speed patterns on the M1 motorway using live traffic data, sampling design, descriptive statistics, and hypothesis testing (t-tests, ANOVA, correlation) to generate business recommendations for logistics companies.
 
 ### 📫 Let's connect
